@@ -9,6 +9,10 @@ public class Calculations {
 			return sum;
 			
 		}
+		int subtraction(int diff) {
+			diff= x-y;
+			return diff;
+		}
 
 
 }
